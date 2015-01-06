@@ -242,11 +242,25 @@ a:focus {
     padding-top: 100px;
 }
 
+.images-section {
+   width: 100%;
+    padding: 150px 0;
+    color: #fff;
+    background: url(../img/DiploInno2.png) no-repeat center center scroll;
+    background-color: #000;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
+}
+
+
+
 .download-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/DiploInno2.png) no-repeat center center scroll;
+    /*background: url(../img/DiploInno2.png) no-repeat center center scroll;*/
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
