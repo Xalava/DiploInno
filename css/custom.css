@@ -4,7 +4,47 @@
 
 
 
+.pasyay {    color: #999;
+
+}
+
+/*.listeRelou{
+	text-align: left;
+	text-indent: 29%;
+    list-style-type: none;
+
+}*/
+
+
+.images-section {
+   width: 100%;
+    padding: 250px 0;
+    color: #fff;
+    background: url(../img/DiploInno2.png) no-repeat center center ;
+    background-color: #000;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
+}
 
 
 
+#tableft{
 
+
+    background: url(../img/1.png) no-repeat center center ;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
+}
+
+#tabright{
+
+    background: url(../img/2.png) no-repeat center center ;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
+}

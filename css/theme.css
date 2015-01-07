@@ -242,17 +242,7 @@ a:focus {
     padding-top: 100px;
 }
 
-.images-section {
-   width: 100%;
-    padding: 250px 0;
-    color: #fff;
-    background: url(../img/DiploInno2.png) no-repeat center center ;
-    background-color: #000;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    background-size: contain;
-    -o-background-size: contain;
-}
+
 
 
 
@@ -260,12 +250,13 @@ a:focus {
     width: 100%;
     padding: 150px 10;
     color: #fff;
-    /*background: url(../img/DiploInno2.png) no-repeat center center scroll;*/
-    background-color: #000;
+/*    background: url(../img/DiploInno2.png) no-repeat center center scroll;
+*/    background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    background-position: bottom;
 }
 
 .mmrg{
